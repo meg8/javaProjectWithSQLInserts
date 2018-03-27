@@ -1,0 +1,3 @@
+INSERT INTO CUSTOMER VALUES(1,'ddd','ggg','kjhg','kjhf','trews','oiujh');
+INSERT INTO CUSTOMER VALUES(2,'hj','gjgj','hjhk','hjh','ghgh','gygj');
+INSERT INTO ORDER VALUES(1,2,'17/06/24','uhjhjh',8.0);
